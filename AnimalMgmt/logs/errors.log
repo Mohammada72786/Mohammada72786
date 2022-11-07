@@ -1,0 +1,16 @@
+2022-10-17 11:01:47,773 ERROR c.a.u.PetLogger [main] org.hibernate.QueryException: could not resolve property: dogcode of: com.animalmanagement.model.Dog
+2022-10-17 16:02:55,681 ERROR c.a.u.PetLogger [main] You have entered a wrong characterjava.util.NoSuchElementException: No line found
+2022-10-17 16:10:33,036 ERROR c.a.u.PetLogger [main] No Dog found, please check your id and try again
+2022-10-18 09:57:10,490 ERROR c.a.u.PetLogger [main] You have entered a wrong characterjava.util.NoSuchElementException: No line found
+2022-10-18 09:58:28,685 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'id_deleted' in 'where clause'
+2022-10-18 11:25:04,746 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'id_deleted' in 'where clause'
+2022-10-18 12:06:46,571 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'id_deleted' in 'where clause'
+2022-10-18 12:33:19,546 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'id_deleted' in 'where clause'
+2022-10-18 12:43:42,959 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'id_deleted' in 'where clause'
+2022-10-18 16:29:42,961 ERROR c.a.u.PetLogger [main] Error occurred while fetcing data from databasecould not resolve property: DogCode of: com.animalmanagement.model.Dog
+2022-10-19 12:12:15,359 ERROR c.a.u.PetLogger [main] com.animalmanagement.util.exception.AnimalManagementException: Pet store Id not found
+2022-10-19 15:40:00,245 ERROR o.h.e.j.s.SqlExceptionHelper [main] Incorrect integer value: 'MALE' for column 'gender' at row 1
+2022-10-19 15:40:00,250 ERROR c.a.u.PetLogger [main] Error eccoured while insertingcould not execute statement
+2022-10-19 15:45:09,574 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown database 'myproj'
+2022-10-19 15:46:49,778 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown database 'myproj'
+2022-10-26 14:13:05,101 ERROR c.a.u.PetLogger [main] Error occurred while fetcing data from databasecould not resolve property: DogCode of: com.animalmanagement.model.Dog

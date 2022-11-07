@@ -1,0 +1,312 @@
+2022-10-06 10:51:09,644 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 10:51:36,156 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:46,457 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:51,019 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:01:56,236 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:09:57,091 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:10:09,586 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:13:39,987 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:00,915 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:08,529 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:14:20,896 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:15:55,174 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:15:57,524 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:16:00,959 INFO c.a.u.PetLogger [main] Invalid Input1610
+2022-10-06 11:16:07,604 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 11:17:43,230 INFO c.a.u.PetLogger [main] Invalid Inputjava.base/java.lang.Thread.getStackTrace(Thread.java:1610)
+2022-10-06 11:17:49,791 INFO c.a.u.PetLogger [main] Invalid Inputjava.base/java.lang.Thread.getStackTrace(Thread.java:1610)
+2022-10-06 11:21:24,314 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 11:21:26,661 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 11:21:30,592 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 12:37:29,759 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:38:04,948 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:41:04,603 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:41:07,503 INFO c.a.u.PetLogger [main] Invalid InputThread[main,5,main]
+2022-10-06 12:42:21,180 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:36,375 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:45,069 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:01:54,967 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-06 13:02:11,450 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:16:51,719 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 13:22:35,287 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:22:47,812 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 13:23:06,499 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 13:25:19,432 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 15:36:08,009 INFO c.a.u.PetLogger [main] Breed id not found
+2022-10-06 15:36:36,518 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 15:36:40,190 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 17:24:45,377 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-06 17:38:36,538 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 17:48:25,246 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:48:09,640 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:49:00,098 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-06 18:49:14,848 INFO c.a.u.PetLogger [main] Invalid input
+2022-10-06 19:59:38,077 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:11:22,883 INFO c.a.u.PetLogger [main] Dog code not found
+2022-10-07 10:35:50,892 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:38:15,183 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:43:12,592 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 10:44:05,614 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 14:49:44,225 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-07 14:49:52,653 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-08 12:13:06,029 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-08 14:41:02,081 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-12 18:26:26,515 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-13 11:17:33,751 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-13 12:11:53,001 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-13 13:40:17,514 INFO c.a.u.PetLogger [main] Invalid Input
+2022-10-13 15:05:45,834 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:05:46,486 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:05:46,742 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:05:46,743 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 15:05:46,744 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 15:05:46,754 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 15:05:47,371 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 15:05:47,920 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:18:27,811 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:18:28,264 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:18:28,502 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:18:28,503 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 15:18:28,503 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 15:18:28,508 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 15:18:29,043 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 15:18:29,554 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:21:28,614 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:21:29,064 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:21:29,299 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:21:29,299 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 15:21:29,300 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 15:21:29,305 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 15:21:29,753 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 15:21:30,308 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/test]
+2022-10-13 15:23:53,576 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:23:54,024 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:29:37,968 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:29:38,418 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:31:30,396 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:31:30,854 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:35:37,624 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:35:38,074 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:37:57,552 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:37:57,988 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 15:39:35,763 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 15:39:36,290 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:13:53,866 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:13:54,314 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:25:55,757 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:25:56,220 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:28:38,060 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:28:38,543 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:29:05,394 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:29:05,843 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:29:49,540 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:29:49,993 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:35:13,644 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:35:14,196 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:39:50,563 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:39:51,206 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:44:08,494 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:44:09,040 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 16:49:25,469 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 16:49:26,240 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:05:36,658 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:05:37,420 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:16:39,932 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:16:40,536 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:18:10,732 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:18:11,501 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:24:20,599 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:24:21,317 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:29:00,358 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:29:01,113 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:31:18,709 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:31:19,308 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:32:07,828 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:32:08,471 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:33:34,721 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:38:09,822 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:38:10,411 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:38:10,744 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:38:10,745 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:38:10,745 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:38:10,758 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:38:11,361 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-10-13 17:38:11,926 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:38:12,178 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:39:24,871 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:39:25,712 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:39:25,991 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:39:25,992 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:39:25,992 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:39:26,003 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:39:26,575 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+2022-10-13 17:39:27,003 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:39:27,262 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:48:28,548 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:48:29,169 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:48:29,439 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:48:29,440 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:48:29,441 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:48:29,446 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:48:30,253 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 17:48:30,741 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:48:31,017 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:52:41,573 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:52:42,197 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:52:42,638 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:52:42,639 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:52:42,640 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:52:42,651 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:52:43,213 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 17:52:43,658 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:52:44,016 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:54:01,922 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:54:02,595 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:54:02,858 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:54:02,859 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:54:02,860 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:54:02,868 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:54:03,637 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 17:54:04,090 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:54:04,404 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:58:26,344 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 17:58:26,921 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 17:58:27,168 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 17:58:27,170 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 17:58:27,171 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 17:58:27,176 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 17:58:27,771 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 17:58:28,340 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 17:58:28,570 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 18:15:10,546 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 18:15:11,033 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 18:15:11,201 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 18:15:11,202 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 18:15:11,203 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 18:15:11,207 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 18:15:11,787 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 18:15:12,155 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 18:15:12,360 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 18:19:45,905 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-13 18:19:46,377 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-13 18:19:46,603 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-13 18:19:46,604 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-13 18:19:46,605 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-13 18:19:46,611 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-13 18:19:47,075 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-13 18:19:47,435 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-13 18:19:47,647 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 11:55:22,326 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 11:55:22,904 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 11:55:23,171 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 11:55:23,172 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 11:55:23,172 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 11:55:23,180 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 11:55:23,671 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 11:55:24,228 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 11:55:24,448 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 11:59:17,854 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 11:59:18,385 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 11:59:18,685 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 11:59:18,686 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 11:59:18,686 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 11:59:18,696 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 11:59:18,790 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 11:59:19,201 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 11:59:19,419 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 12:12:30,372 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 12:12:30,849 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 12:12:31,113 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 12:12:31,113 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 12:12:31,114 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 12:12:31,119 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 12:12:31,639 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 12:12:32,010 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 12:12:32,258 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:00:18,055 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:00:18,521 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:00:18,744 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:00:18,745 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:00:18,748 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:00:18,752 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:00:19,202 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:00:19,486 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:00:19,825 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:01:39,733 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:01:40,198 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:01:40,432 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:01:40,433 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:01:40,434 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:01:40,441 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:01:40,948 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:01:41,221 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:02:40,909 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:02:41,390 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:02:41,652 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:02:41,652 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:02:41,653 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:02:41,660 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:02:42,147 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:02:42,329 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:02:54,335 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:02:54,859 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:02:55,144 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:02:55,147 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:02:55,148 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:02:55,160 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:02:55,672 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:02:55,887 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:10:43,542 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:10:44,001 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:10:44,236 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:10:44,237 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:10:44,237 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:10:44,245 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:10:44,718 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:10:45,059 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:10:45,281 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:15:03,228 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:15:03,697 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:15:03,936 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:15:03,936 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:15:03,939 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:15:03,946 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:15:04,397 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:15:04,725 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:15:04,931 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:17:20,486 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:17:20,986 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:17:21,168 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:17:21,170 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:17:21,170 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:17:21,176 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:17:21,764 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:17:21,981 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:17:22,157 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:18:15,575 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:18:16,046 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:18:16,274 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:18:16,275 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:18:16,276 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:18:16,283 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:18:16,743 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:18:17,054 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:18:17,280 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:31:59,211 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:31:59,711 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:31:59,879 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:31:59,879 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:31:59,880 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:31:59,885 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:32:00,535 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:32:00,758 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:32:00,914 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:34:14,492 INFO o.h.Version [main] HHH000412: Hibernate ORM core version 5.6.12.Final
+2022-10-14 14:34:15,040 INFO o.h.a.c.Version [main] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+2022-10-14 14:34:15,206 INFO o.h.o.c.pooling [main] HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:8080/myproj]
+2022-10-14 14:34:15,207 INFO o.h.o.c.pooling [main] HHH10001001: Connection properties: {password=Printf, user=root}
+2022-10-14 14:34:15,207 INFO o.h.o.c.pooling [main] HHH10001003: Autocommit mode: false
+2022-10-14 14:34:15,212 INFO o.h.e.j.c.i.DriverManagerConnectionProviderImpl [main] HHH000115: Hibernate connection pool size: 20 (min=1)
+2022-10-14 14:34:15,789 INFO o.h.d.Dialect [main] HHH000400: Using dialect: org.hibernate.dialect.MySQL5Dialect
+2022-10-14 14:34:16,025 INFO o.h.i.e.TableGenerator [main] HHH000398: Explicit segment value for id generator [hibernate_sequences.sequence_name] suggested; using default [default]
+2022-10-14 14:34:16,192 INFO o.h.o.c.pooling [main] HHH10001008: Cleaning up connection pool [jdbc:mysql://localhost:8080/myproj]

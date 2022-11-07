@@ -1,0 +1,37 @@
+2022-10-15 11:54:57,992 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'is_deleted' in 'field list'
+2022-10-15 11:55:24,785 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'is_deleted' in 'field list'
+2022-10-15 11:56:04,520 ERROR o.h.e.j.s.SqlExceptionHelper [main] Unknown column 'is_deleted' in 'field list'
+2022-10-15 11:58:18,415 ERROR o.h.e.j.s.SqlExceptionHelper [main] Lock wait timeout exceeded; try restarting transaction
+2022-10-15 17:57:43,590 ERROR o.h.h.i.a.ErrorTracker [main] line 1:48: expecting CLOSE, found 'null'
+2022-10-15 17:57:43,591 ERROR o.h.h.i.a.ErrorTracker [main] line 1:48: expecting CLOSE, found 'null'
+antlr.MismatchedTokenException: expecting CLOSE, found 'null'
+	at antlr.Parser.match(Parser.java:211) ~[antlr-2.7.7.jar:?]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.compoundExpr(HqlBaseParser.java:3739) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.inList(HqlBaseParser.java:3454) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.relationalExpression(HqlBaseParser.java:3196) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.equalityExpression(HqlBaseParser.java:2824) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.negatedExpression(HqlBaseParser.java:2783) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.logicalAndExpression(HqlBaseParser.java:2693) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.logicalOrExpression(HqlBaseParser.java:2653) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.expression(HqlBaseParser.java:2331) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.logicalExpression(HqlBaseParser.java:2079) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.whereClause(HqlBaseParser.java:540) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.queryRule(HqlBaseParser.java:831) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.selectStatement(HqlBaseParser.java:336) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.antlr.HqlBaseParser.statement(HqlBaseParser.java:200) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.parse(QueryTranslatorImpl.java:294) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.doCompile(QueryTranslatorImpl.java:189) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.hql.internal.ast.QueryTranslatorImpl.compile(QueryTranslatorImpl.java:144) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:113) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.engine.query.spi.HQLQueryPlan.<init>(HQLQueryPlan.java:73) ~[hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.engine.query.spi.QueryPlanCache.getHQLQueryPlan(QueryPlanCache.java:162) [hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.internal.AbstractSharedSessionContract.getQueryPlan(AbstractSharedSessionContract.java:636) [hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:748) [hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:848) [hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at org.hibernate.internal.AbstractSharedSessionContract.createQuery(AbstractSharedSessionContract.java:114) [hibernate-core-5.6.12.Final.jar:5.6.12.Final]
+	at com.animalmanagement.dao.impl.BreedDaoImpl.getManyBreeds(BreedDaoImpl.java:145) [newproject/:?]
+	at com.animalmanagement.service.impl.BreedServiceImpl.getManyBreeds(BreedServiceImpl.java:112) [newproject/:?]
+	at com.animalmanagement.controller.BreedController.displayManyBreeds(BreedController.java:135) [newproject/:?]
+	at com.animalmanagement.controller.BreedController.showMenu(BreedController.java:31) [newproject/:?]
+	at com.animalmanagement.controller.AnimalController.showUserInterface(AnimalController.java:32) [newproject/:?]
+	at com.animalmanagement.AnimalManagement.main(AnimalManagement.java:15) [newproject/:?]
